@@ -26,6 +26,7 @@ function readLine() {
 
 // Complete the reverseArray function below.
 function reverseArray(a) {
+    // array 거꾸로 배치하기
     return a.reverse();
 
 }
