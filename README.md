@@ -10,6 +10,12 @@
 
 <br>
 
+## :pushpin: Baekjoon Online Judge Badge Info
+
+[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=simseen0213)](https://solved.ac/profile/simseen0213)
+
+<br>
+
 ## :pushpin: wally-wally Homepage
 
 - <a href="https://wally-wally.kr/til" target="_blank">wally-wally 홈페이지</a>의 `TIL` > `Algorithm` 에서 지금까지 풀었던 Python, Javascript 관련 알고리즘 문제의 코드를 보실 수 있습니다.
