@@ -5,7 +5,7 @@
 ## :pushpin: Overview
 
 - 다양한 알고리즘 문제 플랫폼에서 푼 문제들의 코드를 정리합니다.
-- Platform : `SW Expert Academy`, `Baekjoon`, `Programmers`, `HackerRank`, etc.
+- Platform : `SW Expert Academy`, `Baekjoon`, `Programmers`, `HackerRank`, `Leetcode`.
 - Language : `Python`, `Javascript`, `SQL(MySQL)`, `C++`, etc.
 
 <br>
