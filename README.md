@@ -20,4 +20,4 @@
 
 - <a href="https://wally-wally.kr/til" target="_blank">wally-wally 홈페이지</a>의 `TIL` > `Algorithm` 에서 지금까지 풀었던 Python, Javascript 관련 알고리즘 문제의 코드를 보실 수 있습니다.
 
-![캡처](https://user-images.githubusercontent.com/52685250/99409054-4b1a8700-2934-11eb-8aa7-f09171c4fab5.PNG)
+![캡처](https://user-images.githubusercontent.com/52685250/109983145-e7329780-7d45-11eb-8dde-15c8bfc6d1da.PNG)
